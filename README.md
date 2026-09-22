@@ -7,5 +7,5 @@ A minimalistic dotfiles setup for terminal emulator on mobile. Sets up ZSH shell
 From a new [Termux installation](https://termux.dev/en/), execute:
 
 ```sh
-sh $(curl -fsSL https://raw.githubusercontent.com/DTopping256/termux-dotfiles/refs/heads/main/remote-install.sh)
+curl -fsSL https://raw.githubusercontent.com/DTopping256/termux-dotfiles/refs/heads/main/remote-install.sh | bash
 ```
